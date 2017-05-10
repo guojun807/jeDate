@@ -1,1 +1,10 @@
-
+{
+  "name": "jedate-clone",
+  "version": "jeDate3.8",
+  "main": [
+    "css/jedate.css",
+    "jedate/jquery-1.7.2.js",
+    "jedate/jquery.jedate.min.js",
+    "jedate/jquery.jedate.js"
+  ]
+}
